@@ -3,7 +3,7 @@ import time
 
 options = ['rock', 'paper', 'scissors']
 best_out_of = int(input("Best out of: "))
-# assuming best out of three
+
 user_points = 0
 ai_points = 0
 
